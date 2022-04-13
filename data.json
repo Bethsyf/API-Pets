@@ -5,73 +5,81 @@
         "nombre": "Chester",
         "raza": "Golden Retriever",
         "edad": "3 meses",        
-        "personalidad": [
-            "inteligente",
-            "confiable",
-            "juguetón"
-        ],
+        "personalidad1": "inteligente",
+        "personalidad2": "confiable",
+        "personalidad3": "juguetón",
         "historia": "Chester es un perro inteligente y divertido, perfecto para familias con niños ya que es muy confiable y transmite seguridad",
-        "imagen": "../images/dog-chester.png",
+        "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878719/dog-chester_kulvln.png",
         "genero": "macho",
         "categoria": "perro",
         "direccion": "Calle Real 45-98, Colombia 45654" ,
         "usuario": "María Dolores",
-        "imgusuario": "../images/maria-dolores.png"
+        "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/maria-dolores_tyqoar.png"
     },
     {
         "id": 2,
         "nombre": "Papi",
         "raza": "Chihuahua",
         "edad": "13 meses",        
-        "personalidad": [
-            "alerta",
-            "rapido",
-            "valiente"
-        ],
+        "personalidad1": "alerta",
+        "personalidad2": "rapido",
+        "personalidad3": "valiente",
         "historia": "Papi perdio a su dueña hace dos meses, ya que era una adulta mayor sin familiares, busca hogar amoroso y tranquilo",
-        "imagen": "../images/dog-papi.png",
+        "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878718/dog-papi_okkten.png",
         "genero": "macho",
         "categoria": "perro",
         "direccion": "Avenida Siempreviva 742, EEUU 55512" ,
         "usuario": "Juan Jesus",
-        "imgusuario": "../images/juan-jesus.png"
+        "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/juan-jesus_je3jjs.png"
     },
     {
         "id": 3,
         "nombre": "Rocky",
         "raza": "Rottweiler",
         "edad": "4 meses",        
-        "personalidad": [
-            "cariñoso",
-            "inquieto",
-            "juguetón"
-        ],
+        "personalidad1": "cariñoso",            
+        "personalidad2": "inquieto",
+        "personalidad3": "juguetón",
         "historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
-        "imagen": "../images/dog-rocky.png",
+        "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878718/dog-rocky_psd692.png",
         "genero": "macho",
         "categoria": "perro",
         "direccion": "4140 Parker Rd. Allentown, New Mexico 31134" ,
         "usuario": "María Dolores",
-        "imgusuario": "../images/maria-dolores.png"
+        "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/maria-dolores_tyqoar.png"
     },
     {
         "id": 4,
         "nombre": "Pelusa",
         "raza": "Bichón frisé",
         "edad": "5 meses",        
-        "personalidad": [
-            "alegre",
-            "fiel",
-            "cariñosa"
-        ],
+        "personalidad1": "alegre",
+        "personalidad2": "fiel",
+        "personalidad3": "cariñosa",
         "historia": "Pelusa proviene de un hogar donde era maltrata por sus dueños y a pesar de eso no es nada violenta y le encantan jugar con niños",
-        "imagen": "../images/dog-pelusa.png",
+        "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878719/dog-pelusa_uuz4ek.png",
         "genero": "hembra",
         "categoria": "perro",
         "direccion": "221B Baker Street, EEUU 55512" ,
         "usuario": "Juan Jesus",
-        "imgusuario": "../images/juan-jesus.png"
-    }
+        "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/juan-jesus_je3jjs.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Charlie",
+        "raza": "Chihuahua",
+        "edad": "7 meses",        
+        "personalidad1": "inteligente",
+        "personalidad2": "confiable",
+        "personalidad3": "juguetón",
+        "historia": "Charlie es un alegre y le gusta mucho la compañia y jugar con otras mascotas",
+        "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878718/dog-charlie_jqlivm.png",
+        "genero": "macho",
+        "categoria": "perro",
+        "direccion": "Calle Real 45-98, Colombia 45654" ,
+        "usuario": "María Dolores",
+        "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/maria-dolores_tyqoar.png"
+    }  
     
     ],
 
@@ -81,81 +89,72 @@
             "nombre": "Matilde",
             "raza": "British Shorthair",
             "edad": "11 meses",
-            "personalidad": [
-                "juguetón",
-                "inquieto",
-                "tierno"
-            ],
+            "personalidad1": "cariñosa",
+            "personalidad2": "inquieto",
+            "personalidad3": "tierno",
             "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
-            "imagen": "../images/cat-matilde.png",
+            "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878678/cat-matilde_egyzdb.png",
             "genero": "hembra",
             "categoria": "gato",
             "direccion": "Av. Charleston 45-12, New Mexico 31134",
             "usuario": "Juan Jesus",
-            "imgusuario": "../images/juan-jesus.png"
+            "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/juan-jesus_je3jjs.png"
         },
         {
             "id": 2,
             "nombre": "Pelusa",
             "raza": "Birmano",
             "edad": "9 meses",
-            "personalidad": [
-                "inquieto",
-                "jugueton",
-                "cariñoso"
-            ],
+            "personalidad1": "inquieta",
+            "personalidad2": "juguetona",
+            "personalidad3": "cariñoso",
             "historia": "Pelusa fue rescatada de la calle, tenia heridas medianamente graves, pero ya esta totalmente sana y lista para ser adoptada",
-            "imagen": "../images/cat-pelusa.png",
+            "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878678/cat-pelusa_ztr9pf.png",
             "genero": "hembra",
             "categoria": "gato",
-            
-            "usuario": "Juan Mendez",
-            "imgusuario": "../images/juan-mendez.png"
+            "usuario": "Juan Jesus",
+            "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/juan-jesus_je3jjs.png"
         },
         {
             "id": 3,
             "nombre": "Kity",
             "raza": "Bombay",
             "edad": "15 meses",
-            "personalidad": [
-                "juguetón",
-                "cariñoso",
-                "tierno"
-            ],
+            "personalidad1": "juguetón",
+            "personalidad2": "cariñoso",
+            "personalidad3": "tierno",
             "historia": "kity fue rescatada de un edificio abandonado, junto con sus hijitos, los cuales ya fueron adoptados, es una gatita muy amorosa",
-            "imagen": "../images/cat-kity.png",
+            "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878678/cat-kity_h9d66p.png",
             "genero": "hembra",
             "categoria": "gato",
             "direccion": "Av. Charleston 45-12, New Mexico 31134",
-            "usuario": "Juan Mendez",
-            "imgusuario": "../images/juan-mendez.png"
+            "usuario": "María Dolores",
+            "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/maria-dolores_tyqoar.png"
         },
         {
             "id": 4,
             "nombre": "Bombón",
             "raza": "Gato americano",
             "edad": "6 meses",
-            "personalidad": [
-                "cariñoso",
-                "tierno",
-                "juguetón"
-            ],
+            "personalidad1": "cariñoso",
+            "personalidad2":  "tierno",
+            "personalidad3":  "juguetón",
             "historia": "Bombon fue entregado por sus dueños quienes se mudaban a otro pais y no lo podian llevar, es super dulce como su nombre te llenara de amor y no te sentiras solo",
-            "imagen": "../images/cat-bombom.png",
+            "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878678/cat-kity_h9d66p.png",
             "genero": "macho",
             "categoria": "gato",
             "direccion": "Av. Charleston 45-12, New Mexico 31134",
             "usuario": "Juan Jesus",
-            "imgusuario": "../images/juan-jesus.png"
+            "imgusuario": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/juan-mendez_faov1t.png"
         }        
     ],
 
     "usuarios": [
         {
-            "imagen": "../img/user-juan-mendez.png",
+            "imagen": "https://res.cloudinary.com/dmaviub4l/image/upload/v1649878759/juan-mendez_faov1t.png",
             "nombre": "Juan",
             "apellido": "Méndez",
-            "email": "juanmendez@gmai.com",
+            "email": "juanmendez@gmail.com",
             "id": 1
           }
     ],
