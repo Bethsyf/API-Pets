@@ -1,0 +1,182 @@
+{   "dogs": [
+    {
+        "id": 1,
+        "nombre": "Chester",
+        "raza": "Golden Retriever",
+        "edad": "3 meses",
+        
+        "personalidad": [
+            "inteligente",
+            "confiable",
+            "juguetón"
+        ],
+        "historia": "Chester es un perro inteligente y divertido, perfecto para familias con niños ya que es muy confiable y transmite seguridad",
+        "imagen": "../images/dog-chester.png",
+        "genero": "macho",
+        "categoria": "perro",
+        "direccion": "Calle Real 45-98, Colombia 45654" ,
+        "usuario": "María Dolores",
+        "imgusuario": "../images/maria-dolores.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Papi",
+        "raza": "Chihuahua",
+        "edad": "13 meses",        
+        "personalidad": [
+            "alerta",
+            "rapido",
+            "valiente"
+        ],
+        "historia": "Papi perdio a su dueña hace dos meses, ya que era una adulta mayor sin familiares, busca hogar amoroso y tranquilo",
+        "imagen": "../images/dog-papi.png",
+        "genero": "macho",
+        "categoria": "perro",
+        "direccion": "Avenida Siempreviva 742, EEUU 55512" ,
+        "usuario": "Juan Jesus",
+        "imgusuario": "../images/juan-jesus.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Rocky",
+        "raza": "Rottweiler",
+        "edad": "4 meses",        
+        "personalidad": [
+            "cariñoso",
+            "inquieto",
+            "juguetón"
+        ],
+        "historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+        "imagen": "../images/dog-rocky.png",
+        "genero": "macho",
+        "categoria": "perro",
+        "direccion": "4140 Parker Rd. Allentown, New Mexico 31134" ,
+        "usuario": "María Dolores",
+        "imgusuario": "../images/maria-dolores.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Pelusa",
+        "raza": "Bichón frisé",
+        "edad": "5 meses",        
+        "personalidad": [
+            "alegre",
+            "fiel",
+            "cariñosa"
+        ],
+        "historia": "Pelusa proviene de un hogar donde era maltrata por sus dueños y a pesar de eso no es nada violenta y le encantan jugar con niños",
+        "imagen": "../images/dog-pelusa.png",
+        "genero": "hembra",
+        "categoria": "perro",
+        "direccion": "221B Baker Street, EEUU 55512" ,
+        "usuario": "Juan Jesus",
+        "imgusuario": "../images/juan-jesus.png"
+    }
+    
+],
+
+    "cats": [
+        {
+            "id": 1,
+            "nombre": "Matilde",
+            "raza": "British Shorthair",
+            "edad": "11 meses",
+            "personalidad": [
+                "juguetón",
+                "inquieto",
+                "tierno"
+            ],
+            "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+            "imagen": "../images/cat-matilde.png",
+            "genero": "hembra",
+            "categoria": "gato",
+            "direccion": "Av. Charleston 45-12, New Mexico 31134",
+            "usuario": "Juan Jesus",
+            "imgusuario": "../images/juan-jesus.png"
+        },
+        {
+            "id": 2,
+            "nombre": "Pelusa",
+            "raza": "Birmano",
+            "edad": "9 meses",
+            "personalidad": [
+                "inquieto",
+                "jugueton",
+                "cariñoso"
+            ],
+            "historia": "Pelusa fue rescatada de la calle, tenia heridas medianamente graves, pero ya esta totalmente sana y lista para ser adoptada",
+            "imagen": "../images/cat-pelusa.png",
+            "genero": "hembra",
+            "categoria": "gato",
+            
+            "usuario": "Juan Mendez",
+            "imgusuario": "../images/juan-mendez.png"
+        },
+        {
+            "id": 3,
+            "nombre": "Kity",
+            "raza": "Bombay",
+            "edad": "15 meses",
+            "personalidad": [
+                "juguetón",
+                "cariñoso",
+                "tierno"
+            ],
+            "historia": "kity fue rescatada de un edificio abandonado, junto con sus hijitos, los cuales ya fueron adoptados, es una gatita muy amorosa",
+            "imagen": "../images/cat-kity.png",
+            "genero": "hembra",
+            "categoria": "gato",
+            "direccion": "Av. Charleston 45-12, New Mexico 31134",
+            "usuario": "Juan Mendez",
+            "imgusuario": "../images/juan-mendez.png"
+        },
+        {
+            "id": 4,
+            "nombre": "Bombón",
+            "raza": "Gato americano",
+            "edad": "6 meses",
+            "personalidad": [
+                "cariñoso",
+                "tierno",
+                "juguetón"
+            ],
+            "historia": "Bombon fue entregado por sus dueños quienes se mudaban a otro pais y no lo podian llevar, es super dulce como su nombre te llenara de amor y no te sentiras solo",
+            "imagen": "../images/cat-bombom.png",
+            "genero": "macho",
+            "categoria": "gato",
+            "direccion": "Av. Charleston 45-12, New Mexico 31134",
+            "usuario": "Juan Jesus",
+            "imgusuario": "../images/juan-jesus.png"
+        }
+        
+    ],
+
+    "usuarios": [
+        {
+            "imagen": "../img/user-juan-mendez.png",
+            "nombre": "Juan",
+            "apellido": "Méndez",
+            "email": "juanmendez@gmai.com",
+            "id": 1
+          }
+    ],
+
+    "chatCat": [
+        {
+            "id": 1,
+            "mR": "¡Hola! Nos gustaría conocer a Kity y ya luego decidir si la adoptamos",
+            "mP": "¡Hola! Qué bueno que te interese adoptar. Programemos entonces para que vengan y la conozcan",
+            "r1": "Perfecto, puede ser este sabado en la mañana",
+            "p1": "si, claro entonces ese día kity y yo los esperamos"            
+        }
+        
+    ],
+    
+    "chatDog": [
+        {
+            "id": 1,
+            "mR": "¡Hola! Me encantaría adoptar a Rocky",
+            "mP": "¡Hola! claro, podemos acordar un luar y hora para que conozcas a Rocky"
+        }
+    ]
+}
