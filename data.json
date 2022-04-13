@@ -1,10 +1,10 @@
-{   "dogs": [
+{   
+    "dogs": [
     {
         "id": 1,
         "nombre": "Chester",
         "raza": "Golden Retriever",
-        "edad": "3 meses",
-        
+        "edad": "3 meses",        
         "personalidad": [
             "inteligente",
             "confiable",
@@ -73,7 +73,7 @@
         "imgusuario": "../images/juan-jesus.png"
     }
     
-],
+    ],
 
     "cats": [
         {
@@ -147,8 +147,7 @@
             "direccion": "Av. Charleston 45-12, New Mexico 31134",
             "usuario": "Juan Jesus",
             "imgusuario": "../images/juan-jesus.png"
-        }
-        
+        }        
     ],
 
     "usuarios": [
