@@ -8,8 +8,16 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "json-server": "^0.17.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bethsyf/API-Pets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bethsyf/API-Pets/issues"
+  },
+  "homepage": "https://github.com/Bethsyf/API-Pets#readme",
+  "description": ""
 }
